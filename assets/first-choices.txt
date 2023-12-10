@@ -1,0 +1,11 @@
+
+Choose one of these actions : 
+
+╔══════════════════ WALLET ══════════════════╗
+║    ║
+║ 1  ║ Open the wallet
+║ 2  ║ Get the color of the wallet
+║ 3  ║ Get the mark of the wallet
+║ 4  ║ Quite
+║    ║
+╚════════════════════════════════════════════╝
