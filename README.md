@@ -18,7 +18,7 @@ I've coded that on four (4) languages that are :
 
 #### Updated cli
 
-Nb: Only available for [Javascript](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/js) and [Python](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/python)
+Nb: Only available for [Javascript](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/js), [Python](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/python) and [Dart](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/dart)
 
 1.  Wallet itself :
 
@@ -54,7 +54,7 @@ Nb: Only available for [Javascript](https://github.com/hei-school/my-wallet-Amou
 
 ### Outdated Cli
 
-Nb: Only available for [Dart](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/dart) and [Bash](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/bash)
+Nb: Only available for [Bash](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/bash)
 
 1. Wallet itself
 
