@@ -1,0 +1,21 @@
+{
+  "name": "cc-d1-my-wallet-amourramanantsiresy",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hy8NMZUz)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hei-school/cc-d1-my-wallet-AmourRamanantsiresy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hei-school/cc-d1-my-wallet-AmourRamanantsiresy/issues"
+  },
+  "homepage": "https://github.com/hei-school/cc-d1-my-wallet-AmourRamanantsiresy#readme"
+}

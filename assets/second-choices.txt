@@ -1,0 +1,11 @@
+
+Choose one of these actions : 
+
+╔══════════════════ WALLET ══════════════════════════════════════ MONEY ══════════════════════════════════════ NID ══════════════╗
+║    ║                                       ║    ║                                     ║    ║                                   ║
+║ 1  ║ Close the wallet                      ║ 5  ║ Show current balance                ║ 8  ║ Show NID card list                ║
+║ 2  ║ Show the color of the wallet          ║ 6  ║ Withdrawal                          ║ 9  ║ Show one NID by ID                ║
+║ 3  ║ Show the mark of the wallet           ║ 7  ║ Deposit                             ║ 10 ║ Put one NID                       ║
+║ 4  ║ Throw away the wallet                 ║    ║                                     ║    ║                                   ║
+║    ║                                       ║    ║                                     ║    ║                                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

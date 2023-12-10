@@ -1,0 +1,12 @@
+╔════════════════════════════════════════════╗
+║   
+║   Short ID    : xxx
+║   
+║   First name  : xxx
+║   Last name   : xxx
+║   Card ID     : xxx
+║   Birth Date  : xxx
+║   Birth Place : xxx
+║   
+╚════════════════════════════════════════════╝
+
