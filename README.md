@@ -9,15 +9,16 @@
 Welcome to Wallet CLI, this is a command line interface that reproduce some features as your real wallet.
 I've coded that on four (4) languages that are :
 
-- Javascript
-- Python
-- Dart
-- Bash
-  h
+- [Javascript](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/js)
+- [Python](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/python)
+- [Dart](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/dart)
+- [Bash](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/bash)
 
 ### Feature
 
-#### Branch feature/js
+#### Updated cli
+
+Nb: Only available for [Javascript](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/js) and [Python](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/python)
 
 1.  Wallet itself :
 
@@ -51,7 +52,9 @@ I've coded that on four (4) languages that are :
     - deposit money by amount that must always be a number > 0 and multiple of 100
     - withdrawal money by amount that must always be a number > 0 and multiple of 100
 
-#### Others branches (feature/dart | feature/bash | feature/python)
+### Outdated Cli
+
+Nb: Only available for [Dart](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/dart) and [Bash](https://github.com/hei-school/my-wallet-AmourRamanantsiresy/tree/feature/bash)
 
 1. Wallet itself
 
